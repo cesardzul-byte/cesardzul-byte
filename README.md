@@ -35,7 +35,6 @@
 
 <!-- estadisticas -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cesardzul-byte&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8957e5&icon_color=8957e5&text_color=8b949e&include_all_commits=true&count_private=true" />
   <img src="https://streak-stats.demolab.com?user=cesardzul-byte&hide_border=true&background=0d1117&stroke=30363d&ring=8957e5&fire=8957e5&currStreakLabel=8957e5&sideLabels=8b949e&dates=484f58&currStreakNum=e6edf3&sideNums=e6edf3&commits=e6edf3" />
 </div>
 
