@@ -40,7 +40,7 @@
 
 <!-- gráfico -->
 <div align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=cesardzul-byte&bg_color=0d1117&color=8957e5&line=8957e5&point=e6edf3&area=true&area_color=8957e5&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfica de actividad" />
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=cesardzul-byte&bg_color=0d1117&color=8957e5&line=8957e5&point=e6edf3&area=true&area_color=8957e5&hide_border=true&custom_title=Contributions%20graph" alt="Gráfica de actividad" />
 </div>
 
 <!-- iconos -->
