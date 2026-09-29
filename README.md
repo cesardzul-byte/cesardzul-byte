@@ -38,11 +38,6 @@
   <img src="https://streak-stats.demolab.com?user=cesardzul-byte&hide_border=true&background=0d1117&stroke=30363d&ring=8957e5&fire=8957e5&currStreakLabel=8957e5&sideLabels=8b949e&dates=484f58&currStreakNum=e6edf3&sideNums=e6edf3&commits=e6edf3" />
 </div>
 
-<!-- gráfico -->
-<div align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=cesardzul-byte&bg_color=0d1117&color=8957e5&line=8957e5&point=e6edf3&area=true&area_color=8957e5&hide_border=true&custom_title=Contributions%20graph" alt="Gráfica de actividad" />
-</div>
-
 <!-- iconos -->
 <div align="center" style="display: inline_block"><br>
   <img src="https://skillicons.dev/icons?i=java,py,spring,fastapi,mysql,html,css,git,github,vscode&theme=dark" />
