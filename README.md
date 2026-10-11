@@ -26,9 +26,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/cesar_dzl-black" />
-</div>
+
 
 <br>
 <br>
