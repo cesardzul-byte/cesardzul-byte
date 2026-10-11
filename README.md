@@ -24,13 +24,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=8957E5&width=900&size=22&center=true&lines=Software+Engineering+Student" alt="Typing SVG" />
 </div>
 
-<br>
-
-
-
-<br>
-<br>
-
 <!-- estadisticas -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=cesardzul-byte&hide_border=true&background=0d1117&stroke=30363d&ring=8957e5&fire=8957e5&currStreakLabel=8957e5&sideLabels=8b949e&dates=484f58&currStreakNum=e6edf3&sideNums=e6edf3&commits=e6edf3" />
